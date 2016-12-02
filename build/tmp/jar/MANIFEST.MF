@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_111 (Oracle Corporation 25.111-b14)
+Built-By: Eclipse Plugin for ThingWorx Extension Development 7.2.0.201
+ 608021836
+Build-Date: Thu Dec 01 12:04:36 IST 2016
+
+Name: VegetationIndices
+Package-Title: VegetationIndices
+Package-Version: 1.0.0
+Package-Vendor: Adero
+
